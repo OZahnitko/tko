@@ -1,0 +1,6 @@
+[submodule "packages/tko-docs"]
+	path = packages/tko-docs
+	url = git@github.com:OZahnitko/tko-docs.git
+[submodule "packages/tko-scripts"]
+	path = packages/tko-scripts
+	url = git@github.com:OZahnitko/tko-scripts.git
