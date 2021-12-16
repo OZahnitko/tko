@@ -7,3 +7,6 @@
 [submodule "packages/tko-exercise-tracker-client"]
 	path = packages/tko-exercise-tracker-client
 	url = git@github.com:OZahnitko/tko-exercise-tracker-client.git
+[submodule "packages/tko-component-library"]
+	path = packages/tko-component-library
+	url = git@github.com:OZahnitko/tko-component-library.git
